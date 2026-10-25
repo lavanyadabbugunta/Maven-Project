@@ -5,5 +5,6 @@ public class App {
         System.out.println("Hello from Maven!");
         System.out.println("Jenkins Maven build is successful!");
           System.out.println("Jenkins Maven build is not successful!");
+         System.out.println("building the java project using project");
     }
 }
